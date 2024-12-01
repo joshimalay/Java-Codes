@@ -1,0 +1,39 @@
+How do the Methods work? 
+
+A method is a block of code or collection of statements or a set of code grouped together to perform a certain task or operation. It is used to achieve the reusability of code.
+
+Components of method
+
+
+This image explains the structure of a **method** in programming (commonly used in Java or other object-oriented languages). Here's a breakdown:
+
+1. **Access Specifier** (`public`):  
+   It defines the visibility or scope of the method. For example, `public` means the method can be accessed from anywhere.
+
+2. **Return Type** (`int`):  
+   This specifies the type of value the method will return. In this case, it returns an integer.
+
+3. **Method Name** (`sum`):  
+   The name of the method. It's used to call the method when needed.
+
+4. **Parameter List** (`int a, int b`):  
+   These are inputs that the method can take. Here, the method takes two integer parameters, `a` and `b`.
+
+5. **Method Header**:  
+   The part that includes the **access specifier**, **return type**, **method name**, and **parameter list**.
+
+6. **Method Body**:  
+   This is where the actual functionality of the method is written, enclosed in curly braces `{}`.
+
+7. **Method Signature**:  
+   It includes the method name and parameter list (`sum(int a, int b)`). It uniquely identifies the method. 
+
+This structure helps define and organize methods in a program for reusability and clarity.
+
+
+
+
+
+Method Parameters 
+A method parameter is a value accepted by the method. 
+As mentioned earlier, a method can also have any number of parameters.
